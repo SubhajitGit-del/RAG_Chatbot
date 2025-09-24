@@ -34,7 +34,7 @@ The chatbot is powered by **LangChain**, **Hugging Face models**, **FAISS**, and
 - Built with **Streamlit** for a clean and interactive UI  
 - Enter a YouTube video ID and process transcripts in real-time  
 - Ask natural language questions and receive AI-powered answers  
-- Responses are displayed directly alongside the video context  
+- Responses are displayed directly alongside the questions  
 
 ---
 
@@ -49,8 +49,9 @@ The chatbot is powered by **LangChain**, **Hugging Face models**, **FAISS**, and
 ---
 
 ## 📌 Demo
-👉 *[Add a screenshot or GIF of your Streamlit app here]* 
+
 ![Demo Screenshot](https://github.com/SubhajitGit-del/RAG_Chatbot/blob/main/rag-yt1.png?raw=true)
+![Demo Screenshot](https://github.com/SubhajitGit-del/RAG_Chatbot/blob/main/rag-yt2.png?raw=true)
 
 
 ---
