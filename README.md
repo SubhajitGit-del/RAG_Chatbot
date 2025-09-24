@@ -49,7 +49,9 @@ The chatbot is powered by **LangChain**, **Hugging Face models**, **FAISS**, and
 ---
 
 ## 📌 Demo
-👉 *[Add a screenshot or GIF of your Streamlit app here]*  
+👉 *[Add a screenshot or GIF of your Streamlit app here]* 
+![Demo Screenshot](https://github.com/SubhajitGit-del/RAG_Chatbot/blob/main/rag-yt1.png?raw=true)
+
 
 ---
 
