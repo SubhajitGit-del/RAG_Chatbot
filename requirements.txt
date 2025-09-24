@@ -1,0 +1,12 @@
+streamlit>=1.27.0
+youtube-transcript-api
+langchain
+langchain-huggingface
+langchain-community
+langchain-core
+faiss-cpu
+python-dotenv
+transformers
+torch
+sentence-transformers
+tqdm
